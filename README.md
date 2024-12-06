@@ -1,6 +1,6 @@
 # Avoiding Confusion
 
-R and stan scripts to produce the outputs and plots of the paper: "Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors".
+R and stan scripts to produce the outputs and figures for the paper: "Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors".
 
 `ML functions.R` contains the main functions required for the other scripts to run.<br>
 `Poisson generating process (3.1).R` runs the Poisson example in Section 3.1.<br>
