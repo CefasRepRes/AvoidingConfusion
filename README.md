@@ -1,4 +1,4 @@
-#Avoiding Confusion
+# Avoiding Confusion
 
 R and stan scripts to produce the outputs and plots of the paper: "Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors".
 
