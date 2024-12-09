@@ -20,7 +20,7 @@ R version 4.3.2 or higher is required. The following R packages need to be insta
 
 ```R
 install.packages( c("rstan","ggplot2","reshape2",
-                    "posterior","patchwork","bayesplot"
+                    "posterior","bayesplot"
                     "patchwork","MCMCprecision",
                     "VGAM","parallel", "MASS"))
 ```
