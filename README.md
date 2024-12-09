@@ -15,4 +15,4 @@ R and stan scripts to produce the outputs and figures for the paper: "Avoiding C
 `zeroinf_poisson_model.stan` contains the stan model used in `Zero-inflated Poisson with covariates.R`.
 
 ## Citation
-Spence M., Barry J., Bartos T., Blackwell R., Scott J., Pitois S. 2018. “Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors.” In press.
+Spence M., Barry J., Bartos T., Blackwell R., Scott J., Pitois S. 2024. “Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors.” In press.
