@@ -14,5 +14,16 @@ R and stan scripts to produce the outputs and figures for the paper: "Avoiding C
 `plankton_model.stan` contains the stan model used in `Zooplankton survey (4).R`.<br>
 `zeroinf_poisson_model.stan` contains the stan model used in `Zero-inflated Poisson with covariates.R`.
 
+##Requirements
+
+R version 4.3.2 or higher is required. The following R packages need to be installed to run the above code:
+
+```R
+install.packages( c("rstan","ggplot2","reshape2",
+                    "posterior","patchwork","bayesplot"
+                    "patchwork","MCMCprecision",
+                    "VGAM","parallel", "MASS"))
+```
+
 ## Citation
 Spence M., Barry J., Bartos T., Blackwell R., Scott J., Pitois S. 2024. “Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors.” In press.
