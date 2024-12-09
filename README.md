@@ -13,3 +13,6 @@ R and stan scripts to produce the outputs and figures for the paper: "Avoiding C
 `poisson_model.stan` contains the stan model used in `Poisson generating process (3.1).R` and `Simulation-based calibration.R`.<br>
 `plankton_model.stan` contains the stan model used in `Zooplankton survey (4).R`.<br>
 `zeroinf_poisson_model.stan` contains the stan model used in `Zero-inflated Poisson with covariates.R`.
+
+## Citation
+Spence M., Barry J., Bartos T., Blackwell R., Scott J., Pitois S. 2018. “Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors.” In press.
