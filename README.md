@@ -1,6 +1,6 @@
 # AvoidingConfusion
 
-R and stan scripts to produce the outputs and figures for the paper: "Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors" by Spence et al.
+R and stan scripts to produce the outputs and figures of Spence et al. (2024) "Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors", Methods in Ecology and Evolution.
 
 `ML functions.R` contains the main functions required for the other scripts to run.<br>
 `Poisson generating process (3.1).R` runs the Poisson example in Section 3.1.<br>
