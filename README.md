@@ -14,7 +14,7 @@ R and stan scripts to produce the outputs and figures of Spence *et al*. (2024) 
 `plankton_model.stan` contains the stan model used in `Zooplankton survey (4).R`.<br>
 `zeroinf_poisson_model.stan` contains the stan model used in `Zero-inflated Poisson with covariates.R`.
 
-`plank.csv` is the data used by `Zooplankton survey (4).R`.
+`plank_data.csv` is the data used by `Zooplankton survey (4).R`.
 
 ## Requirements
 
