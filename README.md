@@ -26,4 +26,4 @@ install.packages( c("rstan","ggplot2","reshape2",
 ```
 
 ## Citation
-Spence M., Barry J., Bartos T., Blackwell R., Scott J., Pitois S. 2024. “Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors.” In press.
+Spence M., Barry J., Bartos T., Blackwell R., Scott J., Pitois S. 2024. “Avoiding Confusion: Modelling Image Identification Surveys with Classification Errors.” *Methods in Ecology and Evolution*. In press.
