@@ -1,0 +1,2211 @@
+{
+  "rows": [
+    {
+      "timestamp": "2000-01-01",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 830,
+        "bubbles": 37,
+        "copepods": 12,
+        "Phyto_Centrics": 68,
+        "Tripos": 55
+      }
+    },
+    {
+      "timestamp": "2000-01-02",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 867,
+        "Phyto_Centrics": 80,
+        "bubbles": 41,
+        "Tripos": 64,
+        "copepods": 4
+      }
+    },
+    {
+      "timestamp": "2000-01-03",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 5972,
+        "Tripos": 423,
+        "Phyto_Centrics": 499,
+        "bubbles": 820,
+        "copepods": 35,
+        "Noctiluca": 1,
+        "fish_eggs": 3
+      }
+    },
+    {
+      "timestamp": "2000-01-04",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 92,
+        "bubbles": 59,
+        "Phyto_Centrics": 3,
+        "Tripos": 36
+      }
+    },
+    {
+      "timestamp": "2000-01-05",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 99,
+        "Tripos": 54,
+        "bubbles": 34,
+        "Phyto_Centrics": 3,
+        "copepods": 1
+      }
+    },
+    {
+      "timestamp": "2000-01-06",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 93,
+        "bubbles": 34,
+        "copepods": 2,
+        "Tripos": 34,
+        "Phyto_Centrics": 2
+      }
+    },
+    {
+      "timestamp": "2000-01-07",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 54,
+        "bubbles": 61,
+        "Tripos": 28,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-01-08",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 77,
+        "bubbles": 43,
+        "Tripos": 39,
+        "copepods": 4,
+        "Phyto_Centrics": 3
+      }
+    },
+    {
+      "timestamp": "2000-01-09",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 81,
+        "bubbles": 40,
+        "Tripos": 41,
+        "copepods": 6,
+        "Phyto_Centrics": 4
+      }
+    },
+    {
+      "timestamp": "2000-01-10",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 139,
+        "Tripos": 25,
+        "bubbles": 43,
+        "copepods": 2
+      }
+    },
+    {
+      "timestamp": "2000-01-11",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-05",
+      "class_counts": {
+        "other": 103,
+        "bubbles": 33,
+        "Tripos": 44,
+        "Phyto_Centrics": 3,
+        "copepods": 2
+      }
+    },
+    {
+      "timestamp": "2000-01-12",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 131,
+        "bubbles": 7670,
+        "Tripos": 11,
+        "Phyto_Centrics": 6,
+        "copepods": 1
+      }
+    },
+    {
+      "timestamp": "2000-01-13",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 60,
+        "bubbles": 2031,
+        "Tripos": 2,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-01-14",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 147,
+        "bubbles": 92,
+        "Tripos": 25,
+        "copepods": 7,
+        "Phyto_Centrics": 3
+      }
+    },
+    {
+      "timestamp": "2000-01-15",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 170,
+        "bubbles": 11,
+        "Phyto_Centrics": 4,
+        "Tripos": 42,
+        "copepods": 8
+      }
+    },
+    {
+      "timestamp": "2000-01-16",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 195,
+        "Tripos": 57,
+        "copepods": 9,
+        "bubbles": 10,
+        "Phyto_Centrics": 7
+      }
+    },
+    {
+      "timestamp": "2000-01-17",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1491,
+        "Tripos": 308,
+        "copepods": 110,
+        "bubbles": 76,
+        "Phyto_Centrics": 45,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-01-18",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 269,
+        "bubbles": 9941,
+        "Phyto_Centrics": 8,
+        "Tripos": 9,
+        "copepods": 8
+      }
+    },
+    {
+      "timestamp": "2000-01-19",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 332,
+        "bubbles": 9789,
+        "Tripos": 46,
+        "Phyto_Centrics": 17,
+        "copepods": 17
+      }
+    },
+    {
+      "timestamp": "2000-01-20",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 82,
+        "bubbles": 3169,
+        "Phyto_Centrics": 3,
+        "copepods": 3,
+        "Tripos": 3
+      }
+    },
+    {
+      "timestamp": "2000-01-21",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 197,
+        "Tripos": 44,
+        "bubbles": 153,
+        "Phyto_Centrics": 12,
+        "copepods": 7
+      }
+    },
+    {
+      "timestamp": "2000-01-22",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 314,
+        "bubbles": 31,
+        "Tripos": 70,
+        "copepods": 20,
+        "Phyto_Centrics": 5,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-01-23",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 260,
+        "copepods": 17,
+        "bubbles": 37,
+        "Tripos": 59,
+        "Phyto_Centrics": 6
+      }
+    },
+    {
+      "timestamp": "2000-01-24",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 281,
+        "Phyto_Centrics": 17,
+        "bubbles": 20,
+        "Tripos": 68,
+        "copepods": 23,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-01-25",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 226,
+        "Tripos": 51,
+        "bubbles": 17,
+        "copepods": 6,
+        "Phyto_Centrics": 15,
+        "fish_eggs": 2
+      }
+    },
+    {
+      "timestamp": "2000-01-26",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 501,
+        "bubbles": 3005,
+        "Phyto_Centrics": 33,
+        "copepods": 26,
+        "Tripos": 102,
+        "Noctiluca": 2,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-01-27",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1317,
+        "bubbles": 1084,
+        "Tripos": 210,
+        "Phyto_Centrics": 32,
+        "copepods": 109,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-01-28",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1480,
+        "bubbles": 613,
+        "Tripos": 252,
+        "copepods": 91,
+        "Phyto_Centrics": 30,
+        "fish_eggs": 2
+      }
+    },
+    {
+      "timestamp": "2000-01-29",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 577,
+        "Tripos": 54,
+        "bubbles": 260,
+        "Phyto_Centrics": 9,
+        "copepods": 21,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-01-30",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 93,
+        "bubbles": 17,
+        "Tripos": 7,
+        "Phyto_Centrics": 2,
+        "copepods": 7
+      }
+    },
+    {
+      "timestamp": "2000-01-31",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 117,
+        "copepods": 12,
+        "Phyto_Centrics": 6,
+        "Tripos": 23,
+        "bubbles": 4
+      }
+    },
+    {
+      "timestamp": "2000-02-01",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 132,
+        "Phyto_Centrics": 3,
+        "Tripos": 12,
+        "bubbles": 6,
+        "copepods": 3
+      }
+    },
+    {
+      "timestamp": "2000-02-02",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 137,
+        "Tripos": 25,
+        "bubbles": 9,
+        "copepods": 6,
+        "Phyto_Centrics": 7
+      }
+    },
+    {
+      "timestamp": "2000-02-03",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 131,
+        "Tripos": 17,
+        "copepods": 5,
+        "Phyto_Centrics": 5,
+        "bubbles": 6
+      }
+    },
+    {
+      "timestamp": "2000-02-04",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 133,
+        "Tripos": 16,
+        "Phyto_Centrics": 3,
+        "copepods": 8,
+        "bubbles": 4
+      }
+    },
+    {
+      "timestamp": "2000-02-05",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 141,
+        "bubbles": 4,
+        "copepods": 11,
+        "Tripos": 15,
+        "fish_eggs": 1,
+        "Phyto_Centrics": 2
+      }
+    },
+    {
+      "timestamp": "2000-02-06",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 2339,
+        "Tripos": 436,
+        "bubbles": 201,
+        "Phyto_Centrics": 98,
+        "copepods": 139,
+        "fish_eggs": 3
+      }
+    },
+    {
+      "timestamp": "2000-02-07",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 295,
+        "bubbles": 9102,
+        "Tripos": 3,
+        "Phyto_Centrics": 3
+      }
+    },
+    {
+      "timestamp": "2000-02-08",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 251,
+        "bubbles": 6263,
+        "Tripos": 31,
+        "copepods": 8,
+        "Phyto_Centrics": 11
+      }
+    },
+    {
+      "timestamp": "2000-02-09",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 26,
+        "bubbles": 1538,
+        "Tripos": 2,
+        "copepods": 1
+      }
+    },
+    {
+      "timestamp": "2000-02-10",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 93,
+        "Tripos": 27,
+        "bubbles": 46,
+        "copepods": 13,
+        "Phyto_Centrics": 7
+      }
+    },
+    {
+      "timestamp": "2000-02-11",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 81,
+        "copepods": 18,
+        "Phyto_Centrics": 7,
+        "bubbles": 4,
+        "Tripos": 28
+      }
+    },
+    {
+      "timestamp": "2000-02-12",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1263,
+        "bubbles": 301,
+        "Tripos": 268,
+        "copepods": 113,
+        "Phyto_Centrics": 46
+      }
+    },
+    {
+      "timestamp": "2000-02-13",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 410,
+        "Tripos": 69,
+        "bubbles": 1829,
+        "copepods": 40,
+        "Phyto_Centrics": 13
+      }
+    },
+    {
+      "timestamp": "2000-02-14",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 208,
+        "bubbles": 5667,
+        "Phyto_Centrics": 2,
+        "copepods": 2
+      }
+    },
+    {
+      "timestamp": "2000-02-15",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 47,
+        "copepods": 8,
+        "bubbles": 45,
+        "Tripos": 15,
+        "Phyto_Centrics": 2
+      }
+    },
+    {
+      "timestamp": "2000-02-16",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 71,
+        "bubbles": 9,
+        "copepods": 8,
+        "Tripos": 19,
+        "Phyto_Centrics": 4
+      }
+    },
+    {
+      "timestamp": "2000-02-17",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1445,
+        "bubbles": 306,
+        "copepods": 154,
+        "Tripos": 290,
+        "Phyto_Centrics": 96,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-02-18",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 52,
+        "bubbles": 540,
+        "copepods": 5,
+        "Tripos": 5,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-02-19",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1104,
+        "bubbles": 3897,
+        "Tripos": 200,
+        "copepods": 82,
+        "Phyto_Centrics": 48
+      }
+    },
+    {
+      "timestamp": "2000-02-20",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 30,
+        "bubbles": 93,
+        "Tripos": 10,
+        "copepods": 5,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-02-21",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 71,
+        "Tripos": 7,
+        "bubbles": 12,
+        "copepods": 6,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-02-22",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 65,
+        "copepods": 4,
+        "Tripos": 12,
+        "bubbles": 8,
+        "Phyto_Centrics": 3
+      }
+    },
+    {
+      "timestamp": "2000-02-23",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 81,
+        "Tripos": 17,
+        "copepods": 9,
+        "bubbles": 5,
+        "Phyto_Centrics": 6
+      }
+    },
+    {
+      "timestamp": "2000-02-24",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1694,
+        "Tripos": 333,
+        "copepods": 172,
+        "bubbles": 215,
+        "Phyto_Centrics": 98,
+        "Noctiluca": 2,
+        "fish_eggs": 2
+      }
+    },
+    {
+      "timestamp": "2000-02-25",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 210,
+        "bubbles": 587,
+        "Tripos": 26,
+        "copepods": 12,
+        "Phyto_Centrics": 14
+      }
+    },
+    {
+      "timestamp": "2000-02-26",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 247,
+        "bubbles": 7353,
+        "Phyto_Centrics": 3,
+        "Tripos": 4,
+        "copepods": 1
+      }
+    },
+    {
+      "timestamp": "2000-02-27",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 34,
+        "bubbles": 147,
+        "Tripos": 9,
+        "Phyto_Centrics": 3,
+        "copepods": 4
+      }
+    },
+    {
+      "timestamp": "2000-02-28",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 105,
+        "Tripos": 13,
+        "copepods": 6,
+        "bubbles": 13,
+        "Phyto_Centrics": 5
+      }
+    },
+    {
+      "timestamp": "2000-02-29",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 75,
+        "Tripos": 18,
+        "Phyto_Centrics": 1,
+        "copepods": 6,
+        "bubbles": 8
+      }
+    },
+    {
+      "timestamp": "2000-03-01",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 548,
+        "bubbles": 3452,
+        "copepods": 47,
+        "Tripos": 74,
+        "Phyto_Centrics": 20
+      }
+    },
+    {
+      "timestamp": "2000-03-02",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 609,
+        "bubbles": 3677,
+        "copepods": 54,
+        "Tripos": 71,
+        "Phyto_Centrics": 31,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-03-03",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 380,
+        "bubbles": 8685,
+        "Phyto_Centrics": 11,
+        "Tripos": 8,
+        "copepods": 8
+      }
+    },
+    {
+      "timestamp": "2000-03-04",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 414,
+        "bubbles": 10257,
+        "Phyto_Centrics": 4
+      }
+    },
+    {
+      "timestamp": "2000-03-05",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 371,
+        "bubbles": 9053,
+        "Phyto_Centrics": 8,
+        "Tripos": 4,
+        "copepods": 1
+      }
+    },
+    {
+      "timestamp": "2000-03-06",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 294,
+        "bubbles": 6479,
+        "Phyto_Centrics": 2,
+        "Tripos": 3
+      }
+    },
+    {
+      "timestamp": "2000-03-07",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 103,
+        "bubbles": 72,
+        "copepods": 10,
+        "Tripos": 14,
+        "Phyto_Centrics": 4
+      }
+    },
+    {
+      "timestamp": "2000-03-08",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 88,
+        "Tripos": 10,
+        "bubbles": 3,
+        "copepods": 8
+      }
+    },
+    {
+      "timestamp": "2000-03-09",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 127,
+        "copepods": 8,
+        "bubbles": 9,
+        "Tripos": 18,
+        "Phyto_Centrics": 3
+      }
+    },
+    {
+      "timestamp": "2000-03-10",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 775,
+        "bubbles": 8557,
+        "Tripos": 72,
+        "copepods": 33,
+        "Phyto_Centrics": 18
+      }
+    },
+    {
+      "timestamp": "2000-03-11",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 367,
+        "bubbles": 9183,
+        "Tripos": 4,
+        "Phyto_Centrics": 3
+      }
+    },
+    {
+      "timestamp": "2000-03-12",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 453,
+        "bubbles": 4762,
+        "Tripos": 78,
+        "copepods": 23,
+        "Phyto_Centrics": 17,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-03-13",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 148,
+        "bubbles": 15,
+        "Tripos": 39,
+        "Phyto_Centrics": 4,
+        "copepods": 11
+      }
+    },
+    {
+      "timestamp": "2000-03-14",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 101,
+        "Tripos": 34,
+        "copepods": 13,
+        "Phyto_Centrics": 3,
+        "bubbles": 37
+      }
+    },
+    {
+      "timestamp": "2000-03-15",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1840,
+        "copepods": 193,
+        "bubbles": 466,
+        "Tripos": 424,
+        "Phyto_Centrics": 75
+      }
+    },
+    {
+      "timestamp": "2000-03-16",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 660,
+        "bubbles": 5638,
+        "Phyto_Centrics": 3,
+        "copepods": 1,
+        "Tripos": 1
+      }
+    },
+    {
+      "timestamp": "2000-03-17",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 336,
+        "bubbles": 6421,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-03-18",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 189,
+        "bubbles": 6086,
+        "Tripos": 1
+      }
+    },
+    {
+      "timestamp": "2000-03-19",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 71,
+        "bubbles": 17,
+        "Tripos": 24,
+        "copepods": 10,
+        "Phyto_Centrics": 4
+      }
+    },
+    {
+      "timestamp": "2000-03-20",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 18,
+        "bubbles": 163,
+        "Tripos": 2,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-03-21",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 86,
+        "Tripos": 17,
+        "bubbles": 12,
+        "copepods": 8,
+        "Phyto_Centrics": 5
+      }
+    },
+    {
+      "timestamp": "2000-03-22",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 2564,
+        "Tripos": 652,
+        "copepods": 240,
+        "bubbles": 830,
+        "Phyto_Centrics": 81,
+        "fish_eggs": 4,
+        "Noctiluca": 2
+      }
+    },
+    {
+      "timestamp": "2000-03-23",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 303,
+        "bubbles": 9510,
+        "Phyto_Centrics": 4,
+        "Tripos": 8,
+        "copepods": 1
+      }
+    },
+    {
+      "timestamp": "2000-03-24",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 364,
+        "bubbles": 8370,
+        "Phyto_Centrics": 14,
+        "Tripos": 62,
+        "copepods": 9
+      }
+    },
+    {
+      "timestamp": "2000-03-25",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 760,
+        "bubbles": 4256,
+        "copepods": 44,
+        "Tripos": 172,
+        "Phyto_Centrics": 34,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-03-26",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 150,
+        "Phyto_Centrics": 4,
+        "bubbles": 22,
+        "Tripos": 25,
+        "copepods": 7
+      }
+    },
+    {
+      "timestamp": "2000-03-27",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 193,
+        "bubbles": 63,
+        "Tripos": 26,
+        "copepods": 15,
+        "Phyto_Centrics": 5
+      }
+    },
+    {
+      "timestamp": "2000-03-28",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 151,
+        "Tripos": 43,
+        "bubbles": 10,
+        "copepods": 10,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-03-29",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 455,
+        "copepods": 30,
+        "bubbles": 55,
+        "Tripos": 79,
+        "Phyto_Centrics": 10
+      }
+    },
+    {
+      "timestamp": "2000-03-30",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 316,
+        "bubbles": 10598,
+        "Tripos": 9,
+        "copepods": 3,
+        "Phyto_Centrics": 8
+      }
+    },
+    {
+      "timestamp": "2000-03-31",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 306,
+        "bubbles": 10594,
+        "Phyto_Centrics": 10,
+        "copepods": 3,
+        "Tripos": 2
+      }
+    },
+    {
+      "timestamp": "2000-04-01",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 263,
+        "bubbles": 8598,
+        "Tripos": 5,
+        "Phyto_Centrics": 2,
+        "copepods": 2
+      }
+    },
+    {
+      "timestamp": "2000-04-02",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 18,
+        "bubbles": 828,
+        "Tripos": 2
+      }
+    },
+    {
+      "timestamp": "2000-04-03",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 163,
+        "Tripos": 27,
+        "bubbles": 25,
+        "copepods": 24,
+        "Phyto_Centrics": 5
+      }
+    },
+    {
+      "timestamp": "2000-04-04",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 174,
+        "copepods": 18,
+        "Tripos": 36,
+        "bubbles": 23,
+        "Phyto_Centrics": 3
+      }
+    },
+    {
+      "timestamp": "2000-04-05",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 225,
+        "Tripos": 37,
+        "bubbles": 5,
+        "copepods": 23,
+        "Phyto_Centrics": 13,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-04-06",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1847,
+        "copepods": 302,
+        "bubbles": 4173,
+        "Tripos": 386,
+        "Phyto_Centrics": 53
+      }
+    },
+    {
+      "timestamp": "2000-04-07",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 328,
+        "bubbles": 10207,
+        "copepods": 1,
+        "Phyto_Centrics": 3,
+        "Tripos": 3
+      }
+    },
+    {
+      "timestamp": "2000-04-08",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 361,
+        "bubbles": 4473,
+        "Tripos": 1,
+        "copepods": 1
+      }
+    },
+    {
+      "timestamp": "2000-04-09",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 298,
+        "bubbles": 44,
+        "Noctiluca": 1,
+        "Tripos": 40,
+        "copepods": 17,
+        "Phyto_Centrics": 8
+      }
+    },
+    {
+      "timestamp": "2000-04-10",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 324,
+        "copepods": 20,
+        "Tripos": 39,
+        "Phyto_Centrics": 5,
+        "bubbles": 8,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-04-11",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 349,
+        "Tripos": 41,
+        "bubbles": 55,
+        "copepods": 19,
+        "Phyto_Centrics": 8
+      }
+    },
+    {
+      "timestamp": "2000-04-12",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 570,
+        "bubbles": 1837,
+        "copepods": 83,
+        "Tripos": 89,
+        "Phyto_Centrics": 20,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-04-13",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 3708,
+        "copepods": 66,
+        "Tripos": 985,
+        "Phyto_Centrics": 220,
+        "bubbles": 365
+      }
+    },
+    {
+      "timestamp": "2000-04-14",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 74,
+        "bubbles": 1625,
+        "Tripos": 1
+      }
+    },
+    {
+      "timestamp": "2000-04-15",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 248,
+        "bubbles": 44,
+        "Tripos": 66,
+        "Phyto_Centrics": 14,
+        "copepods": 4
+      }
+    },
+    {
+      "timestamp": "2000-04-16",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 225,
+        "Tripos": 51,
+        "copepods": 6,
+        "Phyto_Centrics": 9,
+        "bubbles": 35
+      }
+    },
+    {
+      "timestamp": "2000-04-17",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1405,
+        "Tripos": 367,
+        "copepods": 17,
+        "Phyto_Centrics": 91,
+        "bubbles": 371
+      }
+    },
+    {
+      "timestamp": "2000-04-18",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1394,
+        "bubbles": 4816,
+        "copepods": 21,
+        "Tripos": 338,
+        "Phyto_Centrics": 81
+      }
+    },
+    {
+      "timestamp": "2000-04-19",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 293,
+        "bubbles": 5084,
+        "Tripos": 36,
+        "Phyto_Centrics": 9,
+        "copepods": 6
+      }
+    },
+    {
+      "timestamp": "2000-04-20",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 250,
+        "Tripos": 47,
+        "bubbles": 59,
+        "Phyto_Centrics": 7,
+        "fish_eggs": 1,
+        "copepods": 7
+      }
+    },
+    {
+      "timestamp": "2000-04-21",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 249,
+        "Phyto_Centrics": 13,
+        "Tripos": 50,
+        "bubbles": 9,
+        "copepods": 8
+      }
+    },
+    {
+      "timestamp": "2000-04-22",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1706,
+        "bubbles": 1018,
+        "Phyto_Centrics": 79,
+        "Tripos": 408,
+        "copepods": 57
+      }
+    },
+    {
+      "timestamp": "2000-04-23",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 2888,
+        "bubbles": 3647,
+        "Tripos": 522,
+        "Phyto_Centrics": 102,
+        "copepods": 190,
+        "Noctiluca": 3
+      }
+    },
+    {
+      "timestamp": "2000-04-24",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 2220,
+        "bubbles": 3117,
+        "Tripos": 331,
+        "Phyto_Centrics": 63,
+        "copepods": 314,
+        "fish_eggs": 1,
+        "Noctiluca": 2
+      }
+    },
+    {
+      "timestamp": "2000-04-25",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 592,
+        "bubbles": 9528,
+        "Phyto_Centrics": 22,
+        "copepods": 21,
+        "Tripos": 61
+      }
+    },
+    {
+      "timestamp": "2000-04-26",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 243,
+        "bubbles": 1625,
+        "Tripos": 37,
+        "copepods": 23,
+        "Phyto_Centrics": 5
+      }
+    },
+    {
+      "timestamp": "2000-04-27",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 430,
+        "bubbles": 1660,
+        "Tripos": 82,
+        "Phyto_Centrics": 23,
+        "copepods": 7,
+        "Noctiluca": 2
+      }
+    },
+    {
+      "timestamp": "2000-04-28",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 805,
+        "bubbles": 2208,
+        "Phyto_Centrics": 62,
+        "Tripos": 132,
+        "copepods": 14
+      }
+    },
+    {
+      "timestamp": "2000-04-29",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1105,
+        "bubbles": 2369,
+        "Phyto_Centrics": 71,
+        "Tripos": 194,
+        "copepods": 22
+      }
+    },
+    {
+      "timestamp": "2000-04-30",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 154,
+        "bubbles": 3308,
+        "Noctiluca": 1,
+        "Tripos": 4,
+        "Phyto_Centrics": 2
+      }
+    },
+    {
+      "timestamp": "2000-05-01",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 218,
+        "bubbles": 74,
+        "Tripos": 50,
+        "copepods": 4,
+        "Phyto_Centrics": 10,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-05-02",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 243,
+        "bubbles": 39,
+        "Tripos": 41,
+        "Phyto_Centrics": 22,
+        "copepods": 2
+      }
+    },
+    {
+      "timestamp": "2000-05-03",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1961,
+        "Tripos": 304,
+        "copepods": 22,
+        "Phyto_Centrics": 124,
+        "bubbles": 328,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-05-04",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 848,
+        "bubbles": 1526,
+        "Tripos": 153,
+        "copepods": 37,
+        "Phyto_Centrics": 40
+      }
+    },
+    {
+      "timestamp": "2000-05-05",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 351,
+        "bubbles": 6131,
+        "Phyto_Centrics": 2,
+        "Tripos": 2
+      }
+    },
+    {
+      "timestamp": "2000-05-06",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 450,
+        "Tripos": 72,
+        "bubbles": 45,
+        "copepods": 36,
+        "Phyto_Centrics": 11,
+        "fish_eggs": 1,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-05-07",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 453,
+        "Tripos": 56,
+        "bubbles": 40,
+        "fish_eggs": 1,
+        "copepods": 37,
+        "Phyto_Centrics": 7
+      }
+    },
+    {
+      "timestamp": "2000-05-08",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1817,
+        "bubbles": 112,
+        "copepods": 129,
+        "Tripos": 153,
+        "Phyto_Centrics": 32,
+        "Noctiluca": 1,
+        "fish_eggs": 3
+      }
+    },
+    {
+      "timestamp": "2000-05-09",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1161,
+        "bubbles": 1605,
+        "copepods": 72,
+        "Tripos": 109,
+        "Phyto_Centrics": 29
+      }
+    },
+    {
+      "timestamp": "2000-05-10",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 531,
+        "bubbles": 8748,
+        "Tripos": 49,
+        "Phyto_Centrics": 29,
+        "copepods": 19
+      }
+    },
+    {
+      "timestamp": "2000-05-11",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 88,
+        "bubbles": 1421,
+        "Tripos": 8,
+        "copepods": 1
+      }
+    },
+    {
+      "timestamp": "2000-05-12",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 211,
+        "bubbles": 65,
+        "Phyto_Centrics": 6,
+        "copepods": 10,
+        "Tripos": 37
+      }
+    },
+    {
+      "timestamp": "2000-05-13",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 184,
+        "bubbles": 37,
+        "Tripos": 30,
+        "copepods": 12,
+        "Phyto_Centrics": 5
+      }
+    },
+    {
+      "timestamp": "2000-05-14",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 3031,
+        "bubbles": 819,
+        "Tripos": 387,
+        "Phyto_Centrics": 80,
+        "copepods": 114,
+        "Noctiluca": 3,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-05-15",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 496,
+        "bubbles": 9321,
+        "Phyto_Centrics": 2
+      }
+    },
+    {
+      "timestamp": "2000-05-16",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 222,
+        "bubbles": 6287,
+        "copepods": 4,
+        "Tripos": 5,
+        "Phyto_Centrics": 2
+      }
+    },
+    {
+      "timestamp": "2000-05-17",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 288,
+        "Tripos": 37,
+        "bubbles": 164,
+        "copepods": 37,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-05-18",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 272,
+        "bubbles": 245,
+        "Tripos": 18,
+        "copepods": 23,
+        "Phyto_Centrics": 6,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-05-19",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 380,
+        "Tripos": 31,
+        "copepods": 27,
+        "bubbles": 58,
+        "Phyto_Centrics": 8
+      }
+    },
+    {
+      "timestamp": "2000-05-20",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 2540,
+        "bubbles": 1290,
+        "Tripos": 238,
+        "copepods": 245,
+        "Phyto_Centrics": 44,
+        "Noctiluca": 2,
+        "fish_eggs": 2
+      }
+    },
+    {
+      "timestamp": "2000-05-21",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1138,
+        "bubbles": 6528,
+        "Tripos": 92,
+        "copepods": 108,
+        "Phyto_Centrics": 26,
+        "fish_eggs": 2,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-05-22",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 62,
+        "bubbles": 1632,
+        "copepods": 1,
+        "Tripos": 1
+      }
+    },
+    {
+      "timestamp": "2000-05-23",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 350,
+        "copepods": 29,
+        "Tripos": 32,
+        "bubbles": 36,
+        "Phyto_Centrics": 9
+      }
+    },
+    {
+      "timestamp": "2000-05-24",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 303,
+        "bubbles": 45,
+        "copepods": 31,
+        "Tripos": 29,
+        "Phyto_Centrics": 4
+      }
+    },
+    {
+      "timestamp": "2000-05-25",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1846,
+        "bubbles": 479,
+        "Tripos": 172,
+        "copepods": 124,
+        "Phyto_Centrics": 54,
+        "fish_larvae": 1,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-05-26",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 464,
+        "bubbles": 7322,
+        "copepods": 9,
+        "Tripos": 24,
+        "Phyto_Centrics": 21
+      }
+    },
+    {
+      "timestamp": "2000-05-27",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 315,
+        "bubbles": 6968,
+        "Tripos": 5,
+        "Phyto_Centrics": 8,
+        "copepods": 4
+      }
+    },
+    {
+      "timestamp": "2000-05-28",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 228,
+        "bubbles": 2448,
+        "Tripos": 24,
+        "copepods": 13,
+        "Phyto_Centrics": 3
+      }
+    },
+    {
+      "timestamp": "2000-05-29",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 165,
+        "bubbles": 113,
+        "Tripos": 20,
+        "copepods": 17,
+        "Phyto_Centrics": 9
+      }
+    },
+    {
+      "timestamp": "2000-05-30",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 201,
+        "bubbles": 85,
+        "copepods": 13,
+        "Phyto_Centrics": 4,
+        "Tripos": 15
+      }
+    },
+    {
+      "timestamp": "2000-05-31",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 193,
+        "bubbles": 75,
+        "copepods": 9,
+        "Tripos": 36,
+        "Phyto_Centrics": 12
+      }
+    },
+    {
+      "timestamp": "2000-06-01",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 1950,
+        "Phyto_Centrics": 74,
+        "Tripos": 204,
+        "bubbles": 4786,
+        "copepods": 149
+      }
+    },
+    {
+      "timestamp": "2000-06-02",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 381,
+        "bubbles": 8719,
+        "Phyto_Centrics": 14,
+        "copepods": 9,
+        "Tripos": 7
+      }
+    },
+    {
+      "timestamp": "2000-06-03",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-06",
+      "class_counts": {
+        "other": 192,
+        "bubbles": 4830,
+        "Tripos": 1,
+        "copepods": 1,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-06-04",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 113,
+        "bubbles": 1952,
+        "copepods": 6,
+        "Tripos": 8,
+        "Phyto_Centrics": 4
+      }
+    },
+    {
+      "timestamp": "2000-06-05",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 122,
+        "bubbles": 158,
+        "Tripos": 18,
+        "copepods": 10,
+        "Phyto_Centrics": 9
+      }
+    },
+    {
+      "timestamp": "2000-06-06",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 87,
+        "Phyto_Centrics": 5,
+        "copepods": 4,
+        "bubbles": 34,
+        "Tripos": 13
+      }
+    },
+    {
+      "timestamp": "2000-06-07",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 181,
+        "bubbles": 85,
+        "Tripos": 27,
+        "copepods": 14,
+        "Phyto_Centrics": 9
+      }
+    },
+    {
+      "timestamp": "2000-06-08",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 3102,
+        "bubbles": 1407,
+        "Tripos": 483,
+        "copepods": 257,
+        "Phyto_Centrics": 131,
+        "fish_eggs": 1,
+        "Noctiluca": 3
+      }
+    },
+    {
+      "timestamp": "2000-06-09",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 355,
+        "bubbles": 8906,
+        "Phyto_Centrics": 6,
+        "Tripos": 6,
+        "copepods": 5
+      }
+    },
+    {
+      "timestamp": "2000-06-10",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 347,
+        "bubbles": 8749,
+        "copepods": 5,
+        "Tripos": 3,
+        "Phyto_Centrics": 2
+      }
+    },
+    {
+      "timestamp": "2000-06-11",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 33,
+        "bubbles": 244,
+        "Tripos": 4,
+        "copepods": 2,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-06-12",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 131,
+        "copepods": 10,
+        "Tripos": 16,
+        "bubbles": 61,
+        "Phyto_Centrics": 3
+      }
+    },
+    {
+      "timestamp": "2000-06-13",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 111,
+        "bubbles": 320,
+        "copepods": 4,
+        "Phyto_Centrics": 9,
+        "Tripos": 5
+      }
+    },
+    {
+      "timestamp": "2000-06-14",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 89,
+        "Phyto_Centrics": 3,
+        "bubbles": 40,
+        "copepods": 4,
+        "Tripos": 9
+      }
+    },
+    {
+      "timestamp": "2000-06-15",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 2463,
+        "Tripos": 325,
+        "bubbles": 1679,
+        "Phyto_Centrics": 103,
+        "copepods": 172,
+        "Noctiluca": 1,
+        "fish_eggs": 4
+      }
+    },
+    {
+      "timestamp": "2000-06-16",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 490,
+        "bubbles": 9333,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-06-17",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 360,
+        "bubbles": 9562,
+        "Phyto_Centrics": 6,
+        "Tripos": 2
+      }
+    },
+    {
+      "timestamp": "2000-06-18",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 36,
+        "bubbles": 267,
+        "copepods": 2,
+        "Tripos": 3,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-06-19",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 51,
+        "bubbles": 30,
+        "Tripos": 8,
+        "copepods": 8,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-06-20",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 2064,
+        "copepods": 147,
+        "bubbles": 1893,
+        "Phyto_Centrics": 107,
+        "Tripos": 282,
+        "fish_eggs": 4,
+        "Noctiluca": 3
+      }
+    },
+    {
+      "timestamp": "2000-06-21",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 460,
+        "bubbles": 9644,
+        "Phyto_Centrics": 2,
+        "Tripos": 2,
+        "copepods": 1
+      }
+    },
+    {
+      "timestamp": "2000-06-22",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 412,
+        "bubbles": 10335,
+        "Phyto_Centrics": 2,
+        "Tripos": 1,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-06-23",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 118,
+        "bubbles": 2876,
+        "Phyto_Centrics": 2
+      }
+    },
+    {
+      "timestamp": "2000-06-24",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 90,
+        "bubbles": 63,
+        "Tripos": 10,
+        "Phyto_Centrics": 8,
+        "copepods": 7,
+        "Noctiluca": 1,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-06-25",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 67,
+        "bubbles": 114,
+        "Tripos": 6,
+        "copepods": 8,
+        "Phyto_Centrics": 4
+      }
+    },
+    {
+      "timestamp": "2000-06-26",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 1622,
+        "bubbles": 1375,
+        "Phyto_Centrics": 78,
+        "copepods": 152,
+        "Tripos": 196,
+        "Noctiluca": 2,
+        "fish_eggs": 2
+      }
+    },
+    {
+      "timestamp": "2000-06-27",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 96,
+        "bubbles": 489,
+        "Tripos": 10,
+        "copepods": 7,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-06-28",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 93,
+        "bubbles": 211,
+        "copepods": 2,
+        "Tripos": 6,
+        "Phyto_Centrics": 2,
+        "Noctiluca": 1
+      }
+    },
+    {
+      "timestamp": "2000-06-29",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 167,
+        "bubbles": 488,
+        "copepods": 7,
+        "Tripos": 16,
+        "Phyto_Centrics": 6,
+        "Noctiluca": 1,
+        "fish_eggs": 2
+      }
+    },
+    {
+      "timestamp": "2000-06-30",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 646,
+        "bubbles": 3659,
+        "Tripos": 66,
+        "copepods": 34,
+        "Phyto_Centrics": 26,
+        "fish_eggs": 1
+      }
+    },
+    {
+      "timestamp": "2000-07-01",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 44,
+        "bubbles": 38,
+        "copepods": 6,
+        "Phyto_Centrics": 1,
+        "Tripos": 13
+      }
+    },
+    {
+      "timestamp": "2000-07-02",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 83,
+        "Tripos": 6,
+        "bubbles": 41,
+        "copepods": 2,
+        "Phyto_Centrics": 1
+      }
+    },
+    {
+      "timestamp": "2000-07-03",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 87,
+        "Phyto_Centrics": 3,
+        "Tripos": 7,
+        "bubbles": 51,
+        "copepods": 9
+      }
+    },
+    {
+      "timestamp": "2000-07-04",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 1782,
+        "bubbles": 2685,
+        "Phyto_Centrics": 83,
+        "Tripos": 205,
+        "copepods": 123
+      }
+    },
+    {
+      "timestamp": "2000-07-05",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 158,
+        "bubbles": 4109,
+        "Phyto_Centrics": 4,
+        "copepods": 3,
+        "Tripos": 3
+      }
+    },
+    {
+      "timestamp": "2000-07-06",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 125,
+        "bubbles": 3733,
+        "copepods": 1,
+        "Phyto_Centrics": 2,
+        "Tripos": 1
+      }
+    },
+    {
+      "timestamp": "2000-07-07",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 129,
+        "Tripos": 23,
+        "bubbles": 53,
+        "copepods": 14,
+        "Phyto_Centrics": 3
+      }
+    },
+    {
+      "timestamp": "2000-07-08",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 92,
+        "Tripos": 16,
+        "bubbles": 63,
+        "Phyto_Centrics": 5,
+        "copepods": 5
+      }
+    },
+    {
+      "timestamp": "2000-07-09",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 741,
+        "bubbles": 342,
+        "Tripos": 91,
+        "Phyto_Centrics": 16,
+        "copepods": 76
+      }
+    },
+    {
+      "timestamp": "2000-07-10",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 133,
+        "bubbles": 2851,
+        "Phyto_Centrics": 1,
+        "Tripos": 4,
+        "copepods": 2
+      }
+    },
+    {
+      "timestamp": "2000-07-11",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 257,
+        "bubbles": 4339,
+        "Tripos": 18,
+        "Phyto_Centrics": 8,
+        "copepods": 13
+      }
+    },
+    {
+      "timestamp": "2000-07-12",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 108,
+        "bubbles": 449,
+        "Phyto_Centrics": 1,
+        "Tripos": 12,
+        "copepods": 13
+      }
+    },
+    {
+      "timestamp": "2000-07-13",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 178,
+        "bubbles": 96,
+        "copepods": 18,
+        "Phyto_Centrics": 14,
+        "Tripos": 16
+      }
+    },
+    {
+      "timestamp": "2000-07-14",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 179,
+        "bubbles": 32,
+        "copepods": 20,
+        "Tripos": 20,
+        "Noctiluca": 1,
+        "Phyto_Centrics": 7
+      }
+    },
+    {
+      "timestamp": "2000-07-15",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 164,
+        "bubbles": 66,
+        "Tripos": 23,
+        "copepods": 24,
+        "Phyto_Centrics": 5
+      }
+    },
+    {
+      "timestamp": "2000-07-16",
+      "run_name": "inference-2026-08-20T16-49-50Z-2025-06-07",
+      "class_counts": {
+        "other": 1612,
+        "Tripos": 260,
+        "bubbles": 579,
+        "copepods": 230,
+        "Phyto_Centrics": 55
+      }
+    }
+  ]
+}
