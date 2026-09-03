@@ -14,14 +14,14 @@ This bundle implements the published `plankton_model.stan` posterior structure:
 - field class counts use `Multinomial(q_l @ P)`
 - observed totals use `NegativeBinomial2(mu, k_nb)`
 
-The reprex in this branch is built around a timeseries of predictions data as we may expect to generate them rather than the actual section 4 dataset.
-To original model is replicated, the field series and validation counts jointly update `P`. Latent true-count allocation, diagnostics, CSV export, and Plotly rendering are post-processing layers and do not alter the fitted posterior.
-We make no promise the model priors or even architecture are actually sensible for our dataset (and there are indications in outputs that they are not).
+The reprex in this branch is built around a timeseries of predictions data that resembles what we might expect to collect, but the model has fitted poorly to it, so at present should be considered unfinished.
+The model, model priors and even architecture does not appear to be sensible for the present dataset. Our validation dataframe / confusion matrix is extremely small, and a dirchlet of 1 is able to inject a disproportionately large sum of confusion into the confusion matrix.
+To my best understanding the full original model is replicated, the field series and validation counts jointly update `P`. Timeseries plots are post-processing layers and do not alter the fitted posterior.
 
 ## Setup (miniforge prompt instructions for WINDOWS). First clone the repo and cd into it:
 ```bash
 cd %USERPROFILE%\Documents
-git clone --branch PythonAvoidingConfusion https://github.com/CefasRepRes/AvoidingConfusion.git
+git clone --branch pythonavoidingconfusion https://github.com/CefasRepRes/AvoidingConfusion.git
 cd AvoidingConfusion
 conda create -n pythonavoidingconfusion python=3.13
 conda activate pythonavoidingconfusion
