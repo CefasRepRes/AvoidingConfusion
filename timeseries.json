@@ -1,0 +1,175 @@
+{
+  "rows": [
+    {
+      "timestamp": "2000-01-03",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 404,
+        "detritus": 20004,
+        "non_copepods": 2517
+      }
+    },
+    {
+      "timestamp": "2000-01-04",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 38,
+        "detritus": 518,
+        "non_copepods": 99
+      }
+    },
+    {
+      "timestamp": "2000-01-05",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 2,
+        "detritus": 1645,
+        "non_copepods": 13
+      }
+    },
+    {
+      "timestamp": "2000-01-06",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 0,
+        "detritus": 38962,
+        "non_copepods": 3
+      }
+    },
+    {
+      "timestamp": "2000-01-07",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 505,
+        "detritus": 9242,
+        "non_copepods": 2669
+      }
+    },
+    {
+      "timestamp": "2000-01-08",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 155,
+        "detritus": 11558,
+        "non_copepods": 6669
+      }
+    },
+    {
+      "timestamp": "2000-01-09",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 459,
+        "detritus": 13082,
+        "non_copepods": 8563
+      }
+    },
+    {
+      "timestamp": "2000-01-10",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 335,
+        "detritus": 7450,
+        "non_copepods": 2234
+      }
+    },
+    {
+      "timestamp": "2000-01-11",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 43,
+        "detritus": 1216,
+        "non_copepods": 304
+      }
+    },
+    {
+      "timestamp": "2000-01-12",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 785,
+        "detritus": 8934,
+        "non_copepods": 2059
+      }
+    },
+    {
+      "timestamp": "2000-01-13",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 231,
+        "detritus": 2947,
+        "non_copepods": 181
+      }
+    },
+    {
+      "timestamp": "2000-01-15",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 141,
+        "detritus": 2237,
+        "non_copepods": 232
+      }
+    },
+    {
+      "timestamp": "2000-01-16",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 105,
+        "detritus": 8903,
+        "non_copepods": 190
+      }
+    },
+    {
+      "timestamp": "2000-01-17",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 330,
+        "detritus": 19043,
+        "non_copepods": 1692
+      }
+    },
+    {
+      "timestamp": "2000-01-18",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 131,
+        "detritus": 9121,
+        "non_copepods": 254
+      }
+    },
+    {
+      "timestamp": "2000-01-19",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 60,
+        "detritus": 674,
+        "non_copepods": 129
+      }
+    },
+    {
+      "timestamp": "2000-01-20",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 25,
+        "detritus": 215,
+        "non_copepods": 28
+      }
+    },
+    {
+      "timestamp": "2000-01-21",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 28,
+        "detritus": 539,
+        "non_copepods": 83
+      }
+    },
+    {
+      "timestamp": "2000-01-22",
+      "run_name": "main-paper-section4",
+      "class_counts": {
+        "copepods": 115,
+        "detritus": 2593,
+        "non_copepods": 408
+      }
+    }
+  ]
+}
