@@ -1,0 +1,14 @@
+{
+  "validation_error_model": {
+    "class_order": [
+      "copepods",
+      "detritus",
+      "non_copepods"
+    ],
+    "confusion_counts": [
+      [909, 7, 39],
+      [71, 3977, 74],
+      [42, 16, 547]
+    ]
+  }
+}
